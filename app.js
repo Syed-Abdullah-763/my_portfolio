@@ -72,17 +72,17 @@ const frontendProjects = [
   {
     title: "Weather Application",
     description: "Weather application displaying real-time data with location-based forecasts using APIs and a clean UI.",
-    link: "hilarious-rugelach-54a6e2.netlify.app"
+    link: "https://hilarious-rugelach-54a6e2.netlify.app"
   },
   {
     title: "Bubble Game",
     description: "Fun bubble game based on number selection, featuring real-time scoring and countdown timer challenge.",
-    link: "stalwart-begonia-997045.netlify.app"
+    link: "https://stalwart-begonia-997045.netlify.app"
   },
   {
     title: "Shoe Website",
     description: "Interactive shoe website with hover-based 3D rotation, showcasing products with dynamic and engaging visuals.",
-    link: "clever-pastelito-59d603.netlify.app"
+    link: "https://clever-pastelito-59d603.netlify.app"
   }
 ];
 
