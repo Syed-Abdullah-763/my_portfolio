@@ -301,7 +301,7 @@ footer {
 
 @media (max-width: 768px) {
   .nav-links {
-    padding-bottom: 30px;
+    padding-bottom: 40px;
     display: none;
     position: absolute;
     background-color: var(--bg-color);
