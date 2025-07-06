@@ -301,12 +301,13 @@ footer {
 
 @media (max-width: 768px) {
   .nav-links {
+    padding-bottom: 20px;
     display: none;
     position: absolute;
     background-color: var(--bg-color);
     top: 70px;
     right: 0;
-    height: calc(100vh - 80px);
+    height: calc(100vh - 70px);
     width: 100%;
     flex-direction: column;
     align-items: center;
